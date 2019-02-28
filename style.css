@@ -1,0 +1,17 @@
+ p {
+      font-family: fantasy;
+    }
+h1 {color: maroon; font-family:fantasy; font-weight: bold;}
+h3 {color: cadetblue; font-family: fantasy; font-weight: bolder;}
+a {
+  color: red; font-family: fantasy;
+}
+
+table {font-family: fantasy;}
+
+li {font-family:fantasy; color:chocolate;}
+
+body {background-color: bisque;}
+
+
+div{font-family: fantasy;}
