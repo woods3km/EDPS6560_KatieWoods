@@ -1,0 +1,107 @@
+body{
+    text-align: center;
+}
+
+#section_1{
+    padding:0px;
+}
+
+#header{
+    text-align: center;
+    font-size: 75px;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+    background-color:
+    #A9697A;
+    padding: 0px;
+    border: solid black;
+ }
+
+#section_2
+
+
+#col_1{
+    background-color: white;
+    padding: 0px 10px 0px 0px;
+    border: solid black;
+}
+
+#col_2{
+    font-family: "Book Antiqua", Georgia, serif;
+    font-size: 20px;
+    background-color: #C2D2C4;
+    height: 338px; 
+    border: solid black;
+}
+
+#col_3{
+    background-color: #F4F3E1;
+    font-family: "Book Antiqua", Georgia, serif;
+    font-size: 20px;
+    float:right;
+    height: 338px;
+    border: solid black;
+}
+
+#section_3{
+    padding:10px 10px 40px 10px;
+}
+
+#examples{
+    text-align: center;
+    font-style:italic;
+    font-size: 25px;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+    padding:0px 0px 40px 0px;
+    background-color:
+    #A9697A;
+    border: solid black;
+}
+
+#section_4{
+    background-color: #F4F3E1;
+}
+
+#col_4{
+    text-align:center;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+    font-size:30px;
+    font-weight: bold;
+    padding:10px;
+    background-color:#F4F3E1;
+    border-bottom: solid black;
+    
+}
+
+#col_5{
+    text-align:center;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; 
+    font-size:30px;
+    font-weight: bold;
+    padding:10px;
+    background-color:#F4F3E1;
+    border-bottom: solid black;
+}
+
+
+#section_5
+
+
+#HCIVid{
+    align-content:center;
+    background-color: #F4F3E1;
+    padding: 20px;
+}
+
+#MMVid{
+    text-align:center;
+    background-color: #F4F3E1;
+    padding: 20px;
+}
+
+#section_5
+
+
+
+
+
+
