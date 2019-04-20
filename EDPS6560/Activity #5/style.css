@@ -1,0 +1,64 @@
+#container{
+}
+    
+
+#navbar{
+    background-color: #61788C;
+    color: #F2E6D8;
+    justify-content: center;
+    margin: 5px;
+    margin-bottom: 50px;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Amatic SC', cursive;
+    border-radius: 5px;
+}
+
+
+
+#navabout{
+    padding-left: 100px;
+}
+
+#navteaching{
+    padding-left: 100px;
+   
+}
+
+#navdesign{
+    padding-left: 100px;
+    
+}
+
+#navtech{
+    padding-left: 100px;
+  
+}
+
+#navcontact{
+    padding-left: 100px;
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Amatic SC', cursive;
+    padding-left: 100px;
+    color: ghostwhite;
+}
+
+p{
+    font-family: 'Josefin Slab', serif;
+    margin: 0px 5px 10px 5px;
+    color:black;
+    font-weight: bolder;
+    margin: 0px;
+    padding: 5px;
+    background-color:aliceblue;
+    border-radius: 5px;}
+
+
+
+      
+     
+      
